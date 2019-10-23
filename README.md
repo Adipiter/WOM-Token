@@ -1,6 +1,3 @@
-# WOM-Token
-Wom tokens are smart contracts that run on the Ethereum platform. WOM Token is a blockchain technology protocol that can handle currency exchange in P2P quickly and efficiently.
-
 How to compile this smart contract:
 
 run your browser, here use the Chrome browser.
